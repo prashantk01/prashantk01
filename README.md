@@ -1,5 +1,8 @@
 [![@prashantk01's Holopin board](https://holopin.me/prashantk01)](https://holopin.io/@prashantk01)
 <!--### Hi there 👋 -->
+[![HitCount](https://hits.dwyl.com/prashantk01/prashantk01.svg?style=flat&show=unique)](http://hits.dwyl.com/prashantk01/prashantk01)
+<!--[![HitCount](https://hits.dwyl.com/prashantk01/prashantk01.svg?style=flat&show=unique)](http://hits.dwyl.com/prashantk01)-->
+
 
 <!--
 **prashantk01/prashantk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
